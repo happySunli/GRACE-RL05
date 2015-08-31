@@ -1,0 +1,198 @@
+Entry_ID: GAD-2_2008122-2008152_0031_EIGEN_G---_0005
+Entry_Title: Ocean Bottom Pressure Geopot. Coeff. averaged over certain Time Period
+
+Group: Data_Set_Citation
+   Originator(s): Dahle, Christoph
+   Title: Ocean Bottom Pressure Geopot. Coeff. averaged over certain Time Period
+   Publication_Date: 2012-03-15 12:59:58 UTC
+   Publication_Place: Oberpfaffenhofen, GERMANY
+   Publisher: GFZ German Research Centre for Geosciences, GRACE Science Data System
+   Edition: 0005
+   Data_Presentation_Form: digital
+End_Group
+
+Group: Investigator
+   First_Name: Byron
+   Last_Name: Tapley
+   Email: INTERNET > tapley@csr.utexas.edu
+   Phone: +1-512-471-5573
+   Phone: +1-512-232-2443 FAX
+   Group: Address
+      Prof. Dr. B. Tapley
+      University of Texas at Austin
+      Center for Space Research
+      3925 W. Braker Lane, Ste. 200, Austin, TX 78759
+      USA
+   End_Group
+End_Group
+
+Group: Investigator
+   First_Name: Frank
+   Last_Name: Flechtner
+   Email: INTERNET > flechtne@gfz-potsdam.de
+   Phone: +49-8153-28-1297
+   Phone: +49-8153-28-1735 FAX
+   Group: Address
+      Dr. F. Flechtner
+      Deutsches GeoForschungsZentrum GFZ
+      c/o DLR Oberpfaffenhofen
+      82234 Wessling
+      GERMANY
+   End_Group
+End_Group
+
+Group: Technical_Contact
+   First_Name: Christoph
+   Last_Name: Dahle
+   Email: INTERNET > dahle@gfz-potsdam.de
+   Phone: +49-8153-28-1589
+   Phone: +49-8153-28-1735 FAX
+   Group: Address
+      Ch. Dahle
+      Deutsches GeoForschungsZentrum GFZ
+      c/o DLR Oberpfaffenhofen
+      82234 Wessling
+      GERMANY
+   End_Group
+End_Group
+
+Group: Parameters
+   Category: EARTH SCIENCE
+   Topic: SOLID EARTH
+   Term: GEOPHYSICAL FIELDS
+End_Group
+
+Group: Parameters
+   Category: GRACE-ISDC
+   Topic: PROCESSING FACILITY
+   Term: GFZ
+   Variable: varchar(80)
+End_Group
+
+Group: Parameters
+   Category: GRACE-ISDC
+   Topic: GENERATION DATE
+   Term: 2012-03-15 12:59:58 UTC
+   Variable: datetime
+End_Group
+
+Group: Parameters
+   Category: GRACE-ISDC
+   Topic: MISSION
+   Term: GRACE-X
+   Variable: varchar(80)
+End_Group
+
+Group: Parameters
+   Category: GRACE-ISDC
+   Topic: DATA ACCESS
+   Term: internal
+   Variable: varchar(80)
+End_Group
+
+Group: Parameters
+   Category: GRACE-ISDC
+   Topic: SOFTWARE PACKAGE
+   Term: atm_ocean_dealise.05
+   Variable: varchar(80)
+End_Group
+
+Group: Parameters
+   Category: GRACE-ISDC
+   Topic: REVISION
+   Term: 0005
+   Variable: int
+End_Group
+
+Group: Parameters
+   Category: GRACE-ISDC
+   Topic: START DATE
+   Term: 2008-05-01 00:00:00 UTC
+   Variable: datetime
+End_Group
+
+Group: Parameters
+   Category: GRACE-ISDC
+   Topic: STOP DATE
+   Term: 2008-06-01 00:00:00 UTC
+   Variable: datetime
+End_Group
+
+Group: Parameters
+   Category: GRACE-ISDC
+   Topic: SATELLITE ID
+   Term: 0201201
+   Variable: varchar(7)
+End_Group
+
+Group: Parameters
+   Category: GRACE-ISDC
+   Topic: PRODUCT ID
+   Term: GAD-2_2008122-2008152_0031_EIGEN_G---
+   Variable: varchar(80)
+End_Group
+
+Group: Parameters
+   Category: GRACE-ISDC
+   Topic: PODAAC FILE
+   Term: GAD-2_2008122-2008152_0031_EIGEN_G---_0005.gz
+   Variable: varchar(80)
+End_Group
+
+Originating_Center: GFZ German Research Centre for Geosciences, GERMANY
+
+Group: Data_Center
+   Data_Center_Name: GRACE-ISDC > GRACE  Information System and Data Center
+   Data_Center_URL: http://isdc.gfz-potsdam.de/grace
+   Group: Data_Center_Contact
+      First_Name: RZ
+      Last_Name: Support
+      Email: INTERNET > rz-support@gfz-potsdam.de
+      Group: Address
+         Deutsches GeoForschungsZentrum GFZ
+         Rechenzentrum
+         Telegrafenberg A20
+         14473 Potsdam
+         GERMANY
+      End_Group
+   End_Group
+End_Group
+
+Discipline: EARTH SCIENCE
+
+Group: Distribution
+   Distribution_Media: GAD-2_2008122-2008152_0031_EIGEN_G---_0005.gz
+   Distribution_Size:    103615 compressed gzip, md5 d02b634484c0b6bd7c9584c72c21d824
+   Distribution_Format: Binary
+End_Group
+
+Group: Summary
+   Ocean Bottom Pressure Geopot. Coeff. averaged over certain Time Period
+End_Group
+
+Group: DIF_Author
+   First_Name: Christoph
+   Last_Name: Dahle
+   Email: INTERNET > dahle@gfz-potsdam.de
+   Phone: +49-8153-28-1589
+   Phone: +49-8153-28-1735 FAX
+   Group: Address
+      Ch. Dahle
+      Deutsches GeoForschungsZentrum GFZ
+      c/o DLR Oberpfaffenhofen
+      82234 Wessling
+      GERMANY
+   End_Group
+End_Group
+
+Keyword: ECMWF atmospheric data
+Keyword: OMCT ocean model for circulation and tides
+Keyword: ocean bottom pressure
+Keyword: geopotential coefficients
+Source_Name: GRACE > Gravity Recovery And Climate Experiment
+Location: > global
+Project: GRACE > Gravity Recovery And Climate Experiment
+
+Group: Reference
+   AOD1B Product Description Document
+End_Group
