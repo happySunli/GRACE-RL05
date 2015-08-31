@@ -1,0 +1,19 @@
+
+This is a July 2013 field. The 60x60 spherical harmonics are determined
+using 31 days of 5-minute GPS-GRACE data and 5-second KBR range rate data. The
+solved for local parameters include satellite initial states, daily biases
+(XYZ component in SRF) for GRACE accelerometer, empirical biases/drifts/once per rev.
+biases every 1.5-hour for KBR range-rate data. The global parameters are monthly
+scale factors (XZ component in SRF)for ACC data, 60x60 spherical harmonics from
+GPS and KBR range rate data.
+
+Convolution formalism with 90x90 of convolution weights derived from GOT4.7
+and self consistant equilibrium model are used for ocean tide modeling.
+100x100 of harmonics from atmosphere/ocean dealiasing (AOD) products
+(release 5) are also used in GRACE data processing to account for the short
+term mass variations in the atmosphere. 180x180 of GIF48 model is the nominal
+geopotential model.
+
+GPS antenna calibration and IGS phase center used in GPS data processing.
+GPS transmitter clocks are fixed to FLINN solution, while GRACE receiver 
+clock are fixed to Level-1 solutions.
